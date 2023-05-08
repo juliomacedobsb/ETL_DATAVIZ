@@ -2,7 +2,10 @@ Ao longo do trabalho, utilizamos técnicas de ETL fundamentais para a preparaç�
 
 
 
+
 remos abordar extração, Transformação e visualização de dados utilizando as bibliotecas: Pyspark, Pandas é MatPlotLib, na interface gráfica do Anaconda-navigator.
+
+
 
 MatPlotLip version :3.7.0
 
